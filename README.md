@@ -6,7 +6,27 @@ Grupo: A
 
 💻Soy desarrollador web en formación. Creo interfaces intuitivas y funcionales convirtiendo ideas en soluciones reales con HTML, CSS y lógica de programación. Me dedico a aprender continuamente y a escribir código ordenado y con capacidad de crecimiento.
 
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/practica1
 
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/practica-2-loreipsum
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-3-calculadorabasica
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-4-tarjetavisual
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-5-cv1
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-6-cv2
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-7-cv3
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-8-cafeteria
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-9-ComplementosJS
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-10-LoginHTML-JS
+
+https://github.com/Iker-Gael-Rico-Nonato/portafolio-web-IkerGaelRicoNonato/tree/main/Practicas/Practica-11-API
 
 Conocimientos Técnicos
 
